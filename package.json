@@ -1,0 +1,24 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "This is a test for git and node",
+  "main": "Index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pa3ck/git-test.git"
+  },
+  "author": "Patrick Garcia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pa3ck/git-test/issues"
+  },
+  "homepage": "https://github.com/Pa3ck/git-test#readme",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
